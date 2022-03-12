@@ -1,5 +1,9 @@
-✨ Languages: Javascript, Python
+✨ Languages:Python, C#
 
-✨ Front-End Development:React, React Native,Javascript, HTML, CSS
+✨ Front-End Development:React, React Native,Javascript, HTML, CSS, Bootstrap
 
-✨ Back-End Development: Node.js, MongoDB, Express, Django, MySQL
+✨ Back-End Development: .Net, Asp.Net
+
+✨ DB: SQL
+
+✨Tool: GitHub, Jira, Slack
