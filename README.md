@@ -1,9 +1,9 @@
-✨ Languages:Python, C#
+✨ Languages:Python, C#, javascript
 
-✨ Front-End Development:React, React Native,Javascript, HTML, CSS, Bootstrap
+✨ Front-End Development:React, HTML, CSS, Bootstrap
 
 ✨ Back-End Development: .Net, Asp.Net
 
 ✨ DB: SQL
 
-✨Tool: GitHub, Jira, Slack
+✨Other: GitHub, Jira, Slack, Agile, Kanban, Scrum
