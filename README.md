@@ -1,6 +1,6 @@
 ✨ Languages:Python, C#, javascript
 
-✨ Front-End Development:React, HTML, CSS, Bootstrap
+✨ Front-End Development:React, Vue.js HTML, CSS, Bootstrap
 
 ✨ Back-End Development: .Net, Asp.Net
 
