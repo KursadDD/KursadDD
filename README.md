@@ -6,4 +6,4 @@
 
 ✨ DB: SQL
 
-✨Other: GitHub, Jira, Slack, Agile, Kanban, Scrum
+✨Other: GitHub, Jira, Slack, Agile, Kanban, Scrum, Bitbuccet, Trello
